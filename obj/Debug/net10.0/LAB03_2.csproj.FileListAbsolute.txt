@@ -1,0 +1,14 @@
+C:\Projects\LAB03_2\bin\Debug\net10.0\LAB03_2.exe
+C:\Projects\LAB03_2\bin\Debug\net10.0\LAB03_2.deps.json
+C:\Projects\LAB03_2\bin\Debug\net10.0\LAB03_2.runtimeconfig.json
+C:\Projects\LAB03_2\bin\Debug\net10.0\LAB03_2.dll
+C:\Projects\LAB03_2\bin\Debug\net10.0\LAB03_2.pdb
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.AssemblyInfoInputs.cache
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.AssemblyInfo.cs
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.csproj.CoreCompileInputs.cache
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.dll
+C:\Projects\LAB03_2\obj\Debug\net10.0\refint\LAB03_2.dll
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.pdb
+C:\Projects\LAB03_2\obj\Debug\net10.0\LAB03_2.genruntimeconfig.cache
+C:\Projects\LAB03_2\obj\Debug\net10.0\ref\LAB03_2.dll
